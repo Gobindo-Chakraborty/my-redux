@@ -3,4 +3,4 @@ React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial -> 03 : 
 
 -> (start : 07-04-2026) (end : 00-04-2026) -->
 
-Running Time -> 00 : 00 : 00 (In Progress)
+Running Time -> 00 : 02 : 21 (In Progress)
